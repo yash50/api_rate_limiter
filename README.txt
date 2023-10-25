@@ -35,7 +35,7 @@ Setup Instructions:
 
 Run Server:
 
-7. Change directory to BlueOptimaAPI : 'cd MyAPI'
+7. Change directory to YashAPI : 'cd MyAPI'
 8. Issue command on terminal: 'python manage.py runserver'
 
 Run Client:
